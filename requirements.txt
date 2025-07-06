@@ -1,0 +1,7 @@
+google-generativeai
+python-dotenv
+google-api-python-client
+fastapi
+uvicorn[standard]
+pydantic
+jinja2
